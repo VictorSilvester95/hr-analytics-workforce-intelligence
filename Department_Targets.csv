@@ -1,0 +1,43 @@
+Month,Department,Headcount_Target,Attrition_Target_Percent
+01-01-2026,Engineering,20,0.01
+01-01-2026,Sales,24,0.025
+01-01-2026,Human Resources,55,0.015
+01-01-2026,Finance,37,0.02
+01-01-2026,Operations,16,0.01
+01-01-2026,Customer Support,21,0.025
+01-01-2026,Marketing,20,0.015
+01-02-2026,Engineering,28,0.01
+01-02-2026,Sales,59,0.03
+01-02-2026,Human Resources,31,0.025
+01-02-2026,Finance,74,0.015
+01-02-2026,Operations,23,0.03
+01-02-2026,Customer Support,25,0.03
+01-02-2026,Marketing,28,0.015
+01-03-2026,Engineering,58,0.015
+01-03-2026,Sales,30,0.015
+01-03-2026,Human Resources,51,0.03
+01-03-2026,Finance,60,0.01
+01-03-2026,Operations,70,0.015
+01-03-2026,Customer Support,17,0.02
+01-03-2026,Marketing,41,0.02
+01-04-2026,Engineering,42,0.03
+01-04-2026,Sales,24,0.01
+01-04-2026,Human Resources,47,0.015
+01-04-2026,Finance,64,0.02
+01-04-2026,Operations,46,0.03
+01-04-2026,Customer Support,56,0.03
+01-04-2026,Marketing,55,0.02
+01-05-2026,Engineering,36,0.015
+01-05-2026,Sales,32,0.03
+01-05-2026,Human Resources,45,0.015
+01-05-2026,Finance,69,0.015
+01-05-2026,Operations,24,0.03
+01-05-2026,Customer Support,40,0.025
+01-05-2026,Marketing,15,0.02
+01-06-2026,Engineering,35,0.01
+01-06-2026,Sales,56,0.02
+01-06-2026,Human Resources,46,0.02
+01-06-2026,Finance,42,0.025
+01-06-2026,Operations,49,0.015
+01-06-2026,Customer Support,17,0.01
+01-06-2026,Marketing,16,0.02
